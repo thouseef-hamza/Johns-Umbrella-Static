@@ -1,0 +1,402 @@
+body{
+    margin: 0;
+}
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.header{
+    width: 100%;
+    height: 100px;
+    background-color: white;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+}
+.secondheader{
+    padding-top: 10px;
+    width: 100%;
+    height: 66px;
+    background-color: white;
+    position: sticky;
+}
+ul{
+    list-style: none;
+    overflow: hidden;
+}
+li{
+    float: left;
+    padding-left: 40px;
+    left: 190px;
+    position: relative;
+    font-size: 16px;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+select{
+   
+    border: none;
+}
+.search{
+    position: relative;
+    margin-top: 0;
+}
+.material-symbols-outlined {
+    font-family: 'Material Symbols Outlined';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 40px;
+    line-height: 1;
+    letter-spacing: normal;
+    text-transform: none;
+    display: inline-block;
+    white-space: nowrap;
+    word-wrap: normal;
+    direction: ltr;
+    -webkit-font-feature-settings: 'liga';
+    -webkit-font-smoothing: antialiased;
+    float: right;
+    margin-top: -80px;
+    margin-right: 65px;
+}
+.search{
+    top: -51px;
+    margin-left: 77px;
+}
+.mainimg{
+    margin-top: -10px;
+    width: 100%;
+    background-repeat: no-repeat;
+}
+.container{
+    width: 1349px;
+    height: 530px;
+    background-color: white;
+}
+.img1{
+    height: 475px;
+    width: auto;
+    float: left;
+    margin-top: 45px;
+    margin-left: 35px;
+}
+.img2{
+    height: 475px;
+    width: auto;
+    float: left;
+    margin-top: 45px;
+    margin-left: 0px;
+}
+.img3{
+    height: 475px;
+    width: auto;
+    float: left;
+    margin-top: 45px;
+    margin-left: 0px;
+}
+.img4{
+    height: 475px;
+    width: auto;
+    float: left;
+    margin-top: 45px;
+    margin-left: 0px;
+}
+.container2{
+    width: 1349px;
+    height: 485px;
+    background-color: white;
+}
+.img5{
+    height: 475px;
+    width: auto;
+    float: left;
+    margin-left: 35px;
+}
+.img6{
+    height: 475px;
+    width: auto;
+    float: left;
+}
+.img7{
+    height: 475px;
+    width: auto;
+    float: left;
+    
+}
+.img8{
+    height: 475px;
+    width: auto;
+    float: left;
+}
+.container3{
+    width: 1349px;
+    height: 440px;
+}
+.img9{
+    width: 94%;
+    margin: 0px 35px;
+    margin-top: 50px;
+}
+.container4{
+    width: 100%;
+    height: 650px;
+}
+.container4left{
+    width: 50%;
+    height: 650px;
+    background-color: white;
+    position: absolute;
+}
+.img10{
+    width: 640px;
+    height: 650px;
+    margin-left: 35px;
+    margin-top: -10px;
+}
+.container4right{
+    width: 50%;
+    height: 650px;
+    background-color: white;
+    float: right;
+    margin-top: 0;
+}
+.img11{
+    width: 640px;
+    height: 650px;
+    margin-right: 35px;
+    margin-top: -10px;
+    float: right;
+}
+.container5{
+    width: 100%;
+    height: 376px;
+    background-color: white;
+}
+h6{
+    font-size: 26px;
+    text-align: center;
+}
+.img12{
+    float: left; 
+}
+.container5left{
+    margin-left: 129px;  
+}
+.btnimg12{
+    background-color: white;
+    border-width: 0.1px;
+    border-color: grey;
+}
+.container5center{
+   margin-left: 530px;
+   margin-top: -131px;
+
+}
+.btnimg13{
+    background-color: white;
+    border-width: 0.1px;
+    border-color: grey; 
+}
+.container5right{
+    float: right;
+    margin-right: 130px;
+    margin-top: -131px;
+ 
+ }
+ .btnimg14{
+     background-color: white;
+     border-width: 0.1px;
+     border-color: grey; 
+ }
+ .email{
+    width: 100%;
+    height: 153px;
+    background-color: #103474;
+ }
+ h3{
+    color: white;
+    font-size: 10pxpx;  
+    margin-left: 90px;
+    position: relative;
+    top: 35px;
+ }
+ #email{
+    float: right;
+    margin-right: 150px;
+    font-size: 35px;
+    margin-top: -15px;
+    border-radius: 25px;
+ }
+ .btnemail{
+    float: right;
+    margin-right: -477px;
+    height: 58px;
+    width: 110px;
+    margin-top: -14px;
+ }
+ .btnemail:hover{
+    background-color: #ff946c;
+    color: white;
+    border-color: #ff946c;
+ }
+ .fcontainer{
+    width: 100%;
+    height: 650px;
+ }
+ .fright{
+    height: 650px;
+    width: 40%;
+    background-color: #f0ecec;
+ }
+ .fleft{
+    float: right;
+    height: 650px;
+    width: 60%;
+    background-color:#403c3c;
+    margin-top: -650px;
+
+ }
+ .fimg{
+   float: left;
+   padding-top: 30px;
+   padding-left: 40px;
+ }
+ p{
+    font-family: inherit;
+    font-weight: 1px;
+    position: absolute;
+    padding-top:120px;
+    padding-left: 40px;
+    font-size: 14px;
+ }
+ .fdetails{
+   padding-top: 150px;
+ }
+ .fdetailstext{
+    font-size: 11px;
+    line-height: 30px;
+ }
+ .fdetailstext a:hover{
+    font-size: 11px;
+    line-height: 30px;
+    color: red;
+ }
+ .visa{
+    position: absolute;
+    padding-top: 215px;
+    padding-left: 40px;
+ }
+ .mastercard{
+    position: absolute;
+    padding-top: 215px;
+    padding-left: 120px;
+ }
+
+ .american{
+    position: absolute;
+    padding-top: 215px;
+    padding-left: 197px;
+ }
+
+ .rupay{
+    position: absolute;
+    padding-top: 215px;
+    padding-left: 273px;
+ }
+ .list{
+    float: left;
+ }
+ th{
+        padding-left: 58px;
+        padding-top: 50px;
+        padding-right: 65px;
+        font-size: 21px;
+        color: white;
+ }
+ td{
+    padding-top: 15px;
+    padding-left: 87px;
+    padding-right: 65px;
+    font-size: 14px;
+    color: white;
+ }
+ td:hover{
+    color: red;
+    transition: 0.5s;
+    
+ }
+ .fa-facebook{
+    position: absolute;
+    margin-top: -160px;
+    margin-left: 50px;
+    font-size: 28px;
+    color: white;
+ }
+ .fa-facebook:hover{
+    color: red;
+    transition: 0.5s;
+ }
+
+ .fa-google-plus-g{
+    position: absolute;
+    margin-top: -96px;
+    margin-left: 50px;
+    font-size: 25px;
+    color: white;
+ }
+ .fa-google-plus-g:hover{
+    color: red;
+    transition: 0.5s;
+ }
+ .fa-youtube{
+    position: absolute;
+    margin-top: -37px;
+    margin-left: 50px;
+    font-size: 25px;
+    color: white;
+ }
+ .fa-youtube:hover{
+    color: red;
+    transition: 0.5s;
+ }
+ .tablehead{
+    float: left;
+ }
+ .fa-house{
+    position: absolute;
+    margin-top: -96px;
+    margin-left: 52px;
+    font-size: 25px;  
+    color: black;
+
+ }
+ .fa-house:hover{
+    color: white;
+    transition: 0.5s;
+ }
+ .fa-phone{
+    position: absolute;
+    margin-top: -35px;
+    margin-left: 52px;
+    font-size: 25px;  
+    color: black;
+ }
+ .fa-phone:hover{
+    color: white;
+    transition: 0.5s;
+ }
+ hr{
+    width: 700px;
+    border-color: black;
+ }
+ .copyright_text{
+    float: right;
+    margin-top: -260px;
+    margin-left: 565px;
+    color: white;
+ }
+
